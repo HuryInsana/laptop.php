@@ -23,3 +23,26 @@ $laptop = [
     "Puertos adicionales" => "Ranura para tarjeta SIM, ranura para tarjeta de memoria microSD",
 
 ];
+
+
+$reloj inteligente = [
+    "pantalla tactil" => "inrerfaz de usuario intuitiva y facil de usar"
+    "Sistema Operativo" => "Plataforma que ejecuta apkicaciones y funciones"
+    "Conectividad" => "Bluetooth para emparejarse"
+    "" => ""
+    "" => ""
+    "" => ""
+    "" => ""
+    "" => ""
+
+
+
+
+
+
+
+
+
+
+
+    
